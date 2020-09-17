@@ -21,7 +21,7 @@
     "url": "https://github.com/ClaudeBot/hubot-skype-bot/issues"
   },
   "dependencies": {
-    "skype-sdk": "https://devportalassets.azureedge.net/files/skype-sdk.tar.gz"
+    "skype-sdk": "file:skype-sdk.tar.gz"
   },
   "peerDependencies": {},
   "main": "./src/skype.coffee",
